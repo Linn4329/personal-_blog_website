@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',       # Django REST Framework - 用于构建 API
     'corsheaders',          # 处理跨域请求
+    'users',
 ]
 
 MIDDLEWARE = [
